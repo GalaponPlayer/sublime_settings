@@ -1,0 +1,32 @@
+{
+	// エンコードと改行コード
+    "default_encoding": "UTF-8", // デフォルトエンコーディングを UTF-8 にする
+    "default_line_ending": "system", // デフォルトの改行コードはシステム依存とする
+
+    "color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).sublime-color-scheme",
+	"font_face": "Ubuntu Mono",
+	"font_size": 18,
+	"ignored_packages":
+	[
+		//"Vintage"
+	],
+	"vintage_ctrl_keys": true, // vim ライクな操作で ctrl キーを有効にする
+    "vintage_start_in_command_mode": true, // ファイルをコマンドモードで開くようにする
+
+    // 入力補完関係
+    "auto_complete": true, // オートコンプリート
+    "auto_complete_commit_on_tab": true, // 補完候補を Tab で指定する
+    "auto_complete_selector": "", // オートコンプリートを有効にするファイルの指定
+    "auto_complete_size_limit": 4194304, // オートコンプリートする候補を保存するファイルのサイズ上限
+
+    // 自動保存
+    "save_on_focus_lost": true, // 現在作業中のファイルからフォーカスが外れると自動で保存する
+
+    // インデント
+    "shift_tab_unindent": true, // Shift+Tab でインデントを減らす
+
+
+	"tab_size": 4,
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"AlignTab",
+		"All Autocomplete",
+		"AutoPEP8",
+		"Codecs33",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"LaTeXTools",
+		"Material Theme",
+		"Package Control",
+		"Python Flake8 Lint",
+		"SideBarEnhancements",
+		"Solarized Color Scheme",
+		"Terminal",
+		"TrailingSpaces",
+		"Vintageous"
+	]
+}
