@@ -17,6 +17,15 @@
 
     //単形選択
     { "keys": ["ctrl+shift+k"], "command": "select_lines", "args": {"forward": false} },
-    { "keys": ["ctrl+shift+j"], "command": "select_lines", "args": {"forward": true} }
+    { "keys": ["ctrl+shift+j"], "command": "select_lines", "args": {"forward": true} },
+
+    //Terminus
+    [
+    {
+        "keys": ["ctrl+alt+t"], "command": "terminus_open", "args": {
+            "cwd": "${file_path:${folder}}"
+        }
+    }
+    ]
 
 ]

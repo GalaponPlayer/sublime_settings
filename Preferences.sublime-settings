@@ -10,6 +10,7 @@
 	"font_size": 18,
 	"ignored_packages":
 	[
+		"Terminal"
 	],
 	"save_on_focus_lost": true,
 	"shift_tab_unindent": true,
